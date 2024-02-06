@@ -6,20 +6,22 @@ const CONFIG = {
     role: "Technical Artist",
     bio: "Oui oui baguette le france.",
     email: "gaetan.dumas.3d@gmail.com",
-    linkedin: "gaetandumas",
+    linkedin: "gaétan-dumas-592615182",
     github: "gaetan144hz",
-    instagram: "",
+    instagram: "g144hz_3d",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `StandUpAndDontDie`,
+      href: "https://gaetan144hz.itch.io/stand-up-and-dont-die",
+      name: `Iris The Leaving Root`,
+      href: "https://gaetan144hz.itch.io/iris-the-leaving-root",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Gaétan Dumas",
+    description: "welcome on my Portfolio!",
   },
 
   // CONFIG configration (required)
