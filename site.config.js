@@ -4,9 +4,9 @@ const CONFIG = {
     name: "Gaétan Dumas",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Technical Artist",
-    bio: "Oui oui baguette le france.",
+    bio: "Student in VideoGame and VFX",
     email: "gaetan.dumas.3d@gmail.com",
-    linkedin: "gaétan-dumas-592615182",
+    linkedin: "gaetdums",
     github: "gaetan144hz",
     instagram: "g144hz_3d",
   },
@@ -21,12 +21,12 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "Gaétan Dumas",
-    description: "welcome on my Portfolio!",
+    description: "Welcome on my Portfolio!",
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  link: "https://gaetan-dumas.vercel.app",
+  since: 2024, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
