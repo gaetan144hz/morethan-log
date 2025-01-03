@@ -14,6 +14,8 @@ const CONFIG = {
     {
       name: `StandUpAndDontDie`,
       href: "https://gaetan144hz.itch.io/stand-up-and-dont-die",
+    },
+    {
       name: `Iris The Leaving Root`,
       href: "https://gaetan144hz.itch.io/iris-the-leaving-root",
     },
